@@ -5,4 +5,4 @@
 [submodule "measuringreligiouschange"]
 	path = measuringreligiouschange
 	url = https://github.com/CASPAR-PL/measuringreligiouschange
-	branch = *release
+	branch = v1.0.2
